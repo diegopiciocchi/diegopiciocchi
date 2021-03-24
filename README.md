@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @diegopiciocchi
 - 👀 I’m interested in physics, nanoscience and computtional techniques
-- 🌱 I’m currently learning hysics in a Master's degree, C and Python programming for scientifical purpose.
+- 🌱 I’m currently learning physics in a Master's degree, working  on C and Python skills for scientific applications.
